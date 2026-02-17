@@ -1,1 +1,2 @@
 Hello from a new clone
+Edit to see what git diff will show
